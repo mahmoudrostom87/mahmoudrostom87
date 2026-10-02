@@ -1,7 +1,7 @@
 # Hello, I'm MAHMOUD
 <a href="https://www.linkedin.com/in/mahmoud-elshorbagy-b60703334/?isSelfProfile=true"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a 4thgrade cybersecurity student with a profound interest in SOC and a dedication to Defensive&AI Security.
+I'am a 4thGrade CyberSecurity student with a profound interest in SOC and a dedication to Defensive&AI Security.
 
 ## Objective
 
