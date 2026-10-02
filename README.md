@@ -15,7 +15,7 @@ Cyber security student seeking to dive into SOC, Defensive Security and AI Secur
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Malware Analysis Lab           | <a href="https://google.com">Detection Lab</a>|
+| Malware Analysis Lab           | <a href="https://github.com/mahmoudrostom87/Malware-Analysis-Lab/tree/main">Malware Analysis Lab</a>|
 
 
 ## Tools
@@ -50,4 +50,4 @@ Cyber security student seeking to dive into SOC, Defensive Security and AI Secur
 </div>
 
 ## Projects
-- Malware Analysis Lab
+- <a href="https://github.com/mahmoudrostom87/Malware-Analysis-Lab/tree/main">Malware Analysis Lab</a>
