@@ -23,7 +23,10 @@ Cyber security student seeking to dive into SOC, Defensive Security and AI Secur
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Windows%2010-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=KaliLinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Windows%20Server-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
 </div>
 
 ### SIEM
@@ -43,3 +46,4 @@ Cyber security student seeking to dive into SOC, Defensive Security and AI Secur
 
 ## Projects
 - <a href="https://github.com/mahmoudrostom87/Malware-Analysis-Lab/tree/main">Malware Analysis Lab</a>
+- <a href="https://github.com/mahmoudrostom87/Home_lab/tree/main">Home Lab</a>
