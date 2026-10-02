@@ -1,17 +1,13 @@
 # Hello, I'm MAHMOUD
 <a href="https://www.linkedin.com/in/mahmoud-elshorbagy-b60703334/?isSelfProfile=true"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 I am a 4thgrade cybersecurity student with a profound interest in SOC and a dedication to Defensive&AI Security.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 Cyber security student seeking to dive into SOC, Defensive Security and AI Security. Passionate about incident response, threat detection, and safeguarding modern systems against emerging AI-driven threats. Hands-on experience analyzing security logs (SIEMs), crafting detection rules, and setting up virtual labs to simulate real-world attack vectors. Eager to contribute to a proactive Security Operations team as an L1 Analyst / Intern. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -19,7 +15,6 @@ Cyber security student seeking to dive into SOC, Defensive Security and AI Secur
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
